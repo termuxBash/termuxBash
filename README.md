@@ -45,7 +45,6 @@ I'm an embedded systems, automation, and full-stack enthusiast who enjoys buildi
 ## 📫 Connect & Reach Me
 
 * **GitHub:** [@termuxBash](https://github.com/termuxBash)
-* **Website:** [termuxBash.github.io](https://termuxBash.github.io)
 
 <!--
 **termuxBash/termuxBash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
